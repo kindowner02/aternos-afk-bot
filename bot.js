@@ -1,5 +1,5 @@
 const mineflayer = require('mineflayer')
-const antiafk = require('@emberglaze/mineflayer-anti-afk')
+const antiafk = require('@nxg-org/mineflayer-anti-afk')
 
 const bot = mineflayer.createBot({
   host: 'The_Demolisher.aternos.me', // Apna Aternos IP likh (jaise yourname.aternos.me)
