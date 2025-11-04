@@ -6,7 +6,7 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "mineflayer": "^4.15.0",
-    "@emberglaze/mineflayer-anti-afk": "^1.0.3"
-  }
+  "mineflayer": "^4.15.0",
+  "@nxg-org/mineflayer-anti-afk": "^1.0.0"
+}
 }
